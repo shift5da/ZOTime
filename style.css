@@ -1,0 +1,53 @@
+body {
+    font-family: STHeiti;
+    margin: 0px;
+    ;
+}
+
+.title {
+    width: 800px;
+    margin: auto;
+    padding-top: 80px;
+    text-align: center;
+}
+
+.title p {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #0f0f0f;
+}
+
+.title p b {
+    font-size: 32px;
+    padding: 0 10px;
+}
+
+.title p span {
+    font-size: 32px;
+    font-weight: 800;
+    color: aliceblue;
+    padding: 10px 20px;
+    margin: 0 10px;
+    background-color: #333;
+}
+
+
+.slogan {
+    margin-top: 50px;
+    font-size: 30px;
+    text-align: center;
+    background-color: #dddddd;
+    padding: 2px 0px;
+    margin-bottom: 50px;
+}
+
+.slogan span {
+    font-size: 32px;
+    font-weight: 800;
+    color: aliceblue;
+    padding: 10px 20px;
+    margin: 0 10px;
+    background-color: #333;
+}
+
+
